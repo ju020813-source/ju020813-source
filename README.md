@@ -1,4 +1,4 @@
-## Hi there 👋
+## Open Source SW-202333117 Park Hye Ju 👋
 
 <!--
 **ju020813-source/ju020813-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
